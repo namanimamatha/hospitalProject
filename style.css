@@ -75,7 +75,7 @@ h1 {
 
 
 #example1 {
-  background-image: url(./hospital4.jpg), url(paper.gif);
+  background-image: url(assets/hospital4.jpg), url(paper.gif);
   background-position: left top,right bottom;
   background-repeat: no-repeat, repeat;
   padding: 40px;
